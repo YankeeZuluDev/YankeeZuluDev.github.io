@@ -1891,6 +1891,11 @@ input, select, textarea {
 					background-color: #2AABEE;
 				}
 
+				
+				ul.social li a.fa-code {
+					background-color: #dfdf00;
+				}
+
 				ul.social li a:hover {
 					top: -5px;
 				}
